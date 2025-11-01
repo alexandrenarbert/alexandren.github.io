@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alexandre Narbert",
+    "email": "alexandrenarbertt@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://alexandrenarbertt.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/alexandrenarbert"
       }
     ]
   },
